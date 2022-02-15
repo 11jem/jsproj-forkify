@@ -1,6 +1,6 @@
 # forkify
 
-[Forkify](https://forkifyproject-jem.netlify.app) is a recipe website built using the MVC architecture. Recipes are from the forkify [API](https://forkify-api.herokuapp.com/api/v2/recipes/).
+[Forkify](https://forkifyproject-jem.netlify.app) is a recipe website built using the MVC architecture. Recipes are from the forkify [API](https://forkify-api.herokuapp.com/api/v2/recipes/). Alternate link for the site can be found [here](https://11jem.github.io/jsproj-forkify/).
 
 ## Features
 
